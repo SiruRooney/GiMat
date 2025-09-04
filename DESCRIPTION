@@ -1,0 +1,20 @@
+Package: GiMat
+Title: Gene Interaction and Multiple-phenotype Association Test (GiMat)
+Version: 0.1.1
+Authors@R: 
+    c(person(given="Siru", family="Wang",email ="sw2077@cam.ac.uk", role = c("aut", "cre"),comment=c(ORCID="0000-0001-8630-8337")),
+    person(given="Xuhui",family="Zhu",email="bxyxzhuxuhui@163.com",role="aut",comment=c(ORCID="0000-0001-9120-7186")),
+    person(given="Gengjie",family="Jia",email="jiagengjie@caas.cn",role="aut",comment=c(ORCID="0009-0001-2881-962X")))
+Description: Testing the multiple phenotype associatin with G"×" G interactions, which accounts for the  relationship among the causal interaction effects on each of the phenotypes.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
+    CompQuadForm,
+    copula,
+    SKAT,
+    stats
+Depends: 
+    R (>= 4.0.2)
+LazyData: true
