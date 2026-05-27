@@ -7,7 +7,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17055370.svg)](https://doi.org/10.5281/zenodo.17055370)
 <!-- badges: end -->
 
-This is an R package for testing the multiple phenotype associatin with gene-by-gene (G$\times$G) interactions, which accounts for the  relationship among the causal interaction effects on each of the phenotypes.
+This is an R package for testing the multiple phenotype associatin with gene-by-gene (GxG) interactions, which accounts for the  relationship among the causal interaction effects on each of the phenotypes.
 
 ## System requirements
 GiMat could be installed with ease on versions of R > 4.0.2.
