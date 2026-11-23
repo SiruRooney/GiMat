@@ -9,6 +9,10 @@
 
 This is an R package for testing the multiple phenotype associatin with gene-by-gene (GxG) interactions, which accounts for the  relationship among the causal interaction effects on each of the phenotypes.
 
+For more details, please see:
+
+Wang S, Zhu X, Li Y, Jia G (2026) A statistical framework to identify gene-gene interactions underlying multiple dichotomous phenotypes from genotype data. PLoS Comput Biol 22(11): e1014962. PDF[https://doi.org/10.1371/ journal.pcbi.1014962]
+
 ## System requirements
 GiMat could be installed with ease on versions of R > 4.0.2.
 
